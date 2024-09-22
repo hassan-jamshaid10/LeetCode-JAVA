@@ -38,11 +38,8 @@ This repository contains solutions to various **LeetCode** challenges and proble
 - **Java**: All solutions are implemented in Java.
 - **LeetCode**: Problems and challenges come from the LeetCode platform.
 
-## License
-This repository is open source under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
-Feel free to reach out if you have any questions or suggestions for improvements.
+Feel free to reach out if you have any questions or suggestions for improvements and for collaboration.
 
 ## Author
 **Hassan Jamshaid** <br>
